@@ -1,5 +1,5 @@
-# Webpack configurado
+# TODO App:Javascript from Udemy
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+this is an application made with professor Fernando Herrera in the Udemy course
 
-Pero esto lo veremos en la siguiente sección
+keep learn and keep practice
